@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é João Victor 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,6 +10,6 @@ Meu nome é Marcelo Paludetto
 
 paludettomarcelo@gmail.com
 
-@marcelopaludetto
+@Joaonovaes
 
 ![descrição do GIF](link GIF do Tenor)
