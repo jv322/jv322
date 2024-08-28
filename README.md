@@ -12,4 +12,3 @@ paludettomarcelo@gmail.com
 
 @Joaonovaes
 
-![descrição do GIF](link GIF do Tenor)
